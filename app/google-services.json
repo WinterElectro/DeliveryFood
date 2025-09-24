@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72508975268",
+    "project_id": "deliveryfood-winter",
+    "storage_bucket": "deliveryfood-winter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72508975268:android:9d11260086a80bae1f9e31",
+        "android_client_info": {
+          "package_name": "com.example.deliveryfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDIFtRAfOa-HE805O3BCtLh2o5LQhMkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
