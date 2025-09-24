@@ -25,7 +25,6 @@ import com.google.firebase.database.getValue
 import java.util.jar.Manifest
 
 private const val LOCATION_PERMISSION_REQUEST_CODE = 1
-
 class HomeActivity : AppCompatActivity() {
     private lateinit var auth: FirebaseAuth
     private lateinit var fusedLocationClient: FusedLocationProviderClient
